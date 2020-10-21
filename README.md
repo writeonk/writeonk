@@ -1,4 +1,4 @@
-## Hi there 👋,
+## Hi there 👋
 
 *I'm Kunal Soni. I working as a  Sr. QA Automation Engineer at [BankNovo](https://www.banknovo.com/).*
 
@@ -31,3 +31,4 @@
 😄 <B> *Pronouns* <br> </B>
 
 ⚡ <B> *Fun facts* <br> </B>
+- Always trying new things!!
