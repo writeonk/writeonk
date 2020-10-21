@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-*I'm Kunal Soni. I working as a  Sr. QA Automation Engineer at [BankNovo](https://www.banknovo.com/).*
+*I'm Kunal Soni. I working as a  Sr. QA Automation Engineer at American banking startup [BankNovo](https://www.banknovo.com/).*
 
 🔭 <B> *Currently working on* </B> 
 
@@ -22,7 +22,7 @@
 - To make best automation framework in the world and share it with all :musical_note: <br> 
 
 💬 <B> *Ask me about* </B> 
-- how to create different automation framework. Inface you can check [my gitHub Repos](https://github.com/writeonk?tab=repositories) :fallen_leaf: <br>
+- how to create different automation framework. Infact you can check [my gitHub Repos](https://github.com/writeonk?tab=repositories) :fallen_leaf: <br>
 
 📫 <B> *How to reach me* </B>
 &nbsp; [Email](write@gmail.com)
