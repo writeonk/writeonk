@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-*I'm Kunal Soni. I working as a  Sr. QA Automation Engineer at American banking startup [BankNovo](https://www.banknovo.com/).*
+*I'm Kunal Soni. I am currently based in Abu Dhabi, UAE. I working as a  Lead QA Engineer at Egyptian Neo banking startup [Dopay](https://dopay.com/).*
 
 🔭 <B> *Currently working on* </B> 
 
-- [Selenium Webdriver](https://www.selenium.dev/documentation/en/webdriver/)
+- [Selenium](https://www.selenium.dev/)
 - [Appium](http://appium.io/)
 - [Jmeter](https://jmeter.apache.org/)
 
