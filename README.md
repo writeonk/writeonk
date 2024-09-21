@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-*I'm Kunal Soni. I am currently based in Abu Dhabi, UAE. I working as a  Lead QA Engineer at Egyptian Neo banking startup [Dopay](https://dopay.com/).*
+*I'm Kunal Soni. I am currently based working for remotely for Abu Dhabi, UAE company. I working as a  Sr QA Engineer at Egyptian Neo banking startup [Dopay](https://dopay.com/).*
 
 🔭 <B> *Currently working on* </B> 
 
 - [Selenium](https://www.selenium.dev/)
 - [Appium](http://appium.io/)
-- [Jmeter](https://jmeter.apache.org/)
 
 :fire: <B> *Key Features working on* </B>
 
