@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-*I'm Kunal Soni. I am currently based working for remotely for Abu Dhabi, UAE company. I working as a  Sr QA Engineer at UK Based Startup [Dopay](https://dopay.com/).*
+*I'm Kunal Soni. I am currently based working remotely for Abu Dhabi, UAE company. I working as a  Sr QA Engineer at UK Based Startup [Dopay](https://dopay.com/).*
 
 🔭 <B> *Currently working on* </B> 
 
