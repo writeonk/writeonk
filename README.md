@@ -1,11 +1,15 @@
 ## Hi there 👋
 
-*I'm Kunal Soni. I am currently based working remotely for Abu Dhabi, UAE company. I working as a  QA & PRODUCT MANAGER at UK Based Startup [Dopay](https://dopay.com/).*
+*I'm Kunal Soni. I am currently based working remotely for Abu Dhabi, UAE company. I working as a  LEAD QA at UK-UAE Based Startup [Dopay](https://dopay.com/).*
 
-🔭 <B> *Currently working on* </B> 
+🔭 <B> *Currently working on AI - LLM PROJECTS* </B> 
 
 - [Selenium](https://www.selenium.dev/)
 - [Appium](http://appium.io/)
+- [DJL - Deep Java Library](https://djl.ai/)
+- [PyTorch](https://pytorch.org/)
+- [Hugging Face](https://huggingface.co/)
+- In-memory vector store
 
 :fire: <B> *Key Features working on* </B>
 
