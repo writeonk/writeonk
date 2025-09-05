@@ -25,7 +25,7 @@
 - how to create different automation framework. Infact you can check [my gitHub Repos](https://github.com/writeonk?tab=repositories) :fallen_leaf: <br>
 
 📫 <B> *How to reach me* </B>
-&nbsp; [Email](write@gmail.com)
+&nbsp; [Email](soni.kunal.dilip@gmail.com)
 &nbsp; [LinkedIn](https://www.linkedin.com/in/writeonk/)
  
 😄 <B> *Pronouns* <br> </B>
